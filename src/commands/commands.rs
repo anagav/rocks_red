@@ -1,0 +1,5 @@
+
+enum Name {
+    SET,
+    GET,
+}

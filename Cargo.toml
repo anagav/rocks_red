@@ -1,0 +1,6 @@
+[package]
+name = "rocks_red"
+version = "0.1.0"
+authors = ["ashishn <ashishn@yahoo-inc.com>"]
+
+[dependencies]
